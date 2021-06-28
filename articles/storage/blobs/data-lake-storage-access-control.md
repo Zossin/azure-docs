@@ -201,7 +201,7 @@ For a new Data Lake Storage Gen2 container, the mask for the access ACL of the r
 
 |Entity|Directories|Files|
 |--|--|--|
-|Owning user|`rwx`|`r-w`|
+|Owning user|`rwx`|`rw-`|
 |Owning group|`r-x`|`r--`|
 |Other|`---`|`---`|
 
